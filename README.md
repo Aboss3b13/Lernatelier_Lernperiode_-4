@@ -10,6 +10,9 @@ Neu: Was möchten Sie Neues lernen?
 Ich will Dictionaries lernen.
 Was wäre ein geeignetes Projekt für diese LP4?
 20.2.2024
+
+
+
 [ ] Ein Programm erstellen das Worter erkennen kann.
 
 
