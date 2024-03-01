@@ -15,5 +15,9 @@ Ich will ein Wortsuchprogram programmieren. Also ich type ein Wort ein und es gi
 - [ ] Ich will ein Programm programmieren das Wörter erkennen kann.
 - [ ] Ich will später dann Dictionaries lernen.
 - [ ] Dann diese Dictionaries im Wortsuchprogram einfügen.
+Heute habe ich ein Programm programmiert das der folgende macht. Man typt in ein Wort und dann ein zweites Wort. Als letztes typt man ein Input Wort rein. Der Programm schaut für Gemeinsamkeiten und Unterschiede zwischen den zwei ersten Wörtern und schlussendlich sagt ob der Input Wort näher verwandt ist mit der erste Wort oder der zweite Wort. Doch es funktioniert nicht in allen Fällen, also nächstes Mal will ich daran weiterschaffen. Ich habe auch gelernt was Dictionaries sind, aber habe sie noch nicht implementiert. (85 Wörter)
 
+| Testfall-Nummer | Engabe |  Prozess | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |   Program gestartet, Zwei Anfangs Wörter eingeben. Ein drittes Vergleichwort eingeben|  Die ersten zwei Wörter vergleichen sich mit einander   |  Der Wort der näher mit dem Vergleichswort verwandt ist.  | nein    |
 
