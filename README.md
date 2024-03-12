@@ -22,3 +22,7 @@ Heute habe ich ein Programm programmiert das der folgende macht. Man typt in ein
 | --- | --- | --- | --- | --- |
 | 1   |   Program gestartet, Zwei Anfangs Wörter eingeben. Ein drittes Vergleichwort eingeben|  Die ersten zwei Wörter vergleichen sich mit einander   |  Der Wort der näher mit dem Vergleichswort verwandt ist.  | nein    |
 
+## 8.3.2024
+ 
+- [ ] Ich will weitere Methoden finden um diesen Wörter Program zu fertig programmieren
+- [ ] Ich will diese Methoden implementieren.
