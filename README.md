@@ -27,5 +27,11 @@ Heute habe ich ein Programm programmiert das der folgende macht. Man typt in ein
 - [ ] Ich will weitere Methoden finden um diesen Wörter Program zu fertig programmieren
 - [ ] Ich will diese Methoden implementieren.
 
+Heute habe ich probiert mein Code für den Word Identifier Programm zu weiter zu programmieren. Ich habe probiert neue Methoden herauszufinden, aber bin zu den Konklusion von letztes Mal gekommen. Es funktioniert noch nicht. Doch ich bin näher am Antwort gekommen. Ich will nächstes Mal daran weiter programmieren und dann der Tokenizer der Neo programmiert hat hinzufügen das ich sogar Sätze korrigieren kann.
 
+## 6.4.2024
+ 
+- [ ] Ich will weitere Methoden finden um diesen Wörter Program zu fertig programmieren
+- [ ] Ich will diese Methoden implementieren.
+- [ ] Ich will Neo's Tokenizer implentieren.
 
