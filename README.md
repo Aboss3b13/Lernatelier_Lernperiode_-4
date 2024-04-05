@@ -29,9 +29,17 @@ Heute habe ich ein Programm programmiert das der folgende macht. Man typt in ein
 
 Heute habe ich probiert mein Code für den Word Identifier Programm zu weiter zu programmieren. Ich habe probiert neue Methoden herauszufinden, aber bin zu den Konklusion von letztes Mal gekommen. Es funktioniert noch nicht. Doch ich bin näher am Antwort gekommen. Ich will nächstes Mal daran weiter programmieren und dann der Tokenizer der Neo programmiert hat hinzufügen das ich sogar Sätze korrigieren kann.
 
-## 6.4.2024
+## 5.4.2024
  
 - [ ] Ich will weitere Methoden finden um diesen Wörter Program zu fertig programmieren
 - [ ] Ich will diese Methoden implementieren.
 - [ ] Ich will Neo's Tokenizer implentieren.
+
+## Reflexion
+
+Über die letzten paar Wochen habe ich eine grosse langfristiges Projekt mit Neo Dijkstra angefangen. Dieser Projekt soll über die nächsten paar Jahre dauern. Unser Idee war ein Art KI zu programmieren, in dem der Programm durch der Satzstruktur und der Duden einfache Antworten generiert. In dieser Lernperiode haben wir damit endlich angefangen.
+Neo hatte ein Tokenizer und der Duden für die einfachen Wörter auf Englisch in Excel erstellt. Ich habe begonnen mit ein Spellchecker / Word Identifier zu programmieren. Der Programm funktioniert indem es den Input Wort in den Duden durchsucht und pro Wort im Duden einen Wert gibt als Nummer. Der Programm gibt aus der Wort am nächsten zum Input Wort. Der Spellckecker hat aber paar Falsche Ergebnisse. Aber es ist gut genug das man im Langfristiges Text ein Sinn daraus machen kann.
+Das schwierige daran war das verstehen des Konzeptes und es in ein Programm umzuwandeln. Ich habe viele Strategien benützt, dass der Programm ein möglichst richtiges Ergebnis ausgibt.
+Der nächste Schritt ist alle Daten im Excel in SQL zu übertragen, weil wir haben gemerkt es einfacher ist alles einfacher zu verbinden. Nach dem wollen wir anfangen verschiedene Formen von Satz-Strukturen in SQL zu implementieren. (nur für Fragen gemeint.) Diese Satzstrukturen sind existieren dass der Programm identifizieren kann was für eine Frage gestellt wurde. Wir wollen die Grundlage des Konzepts kreieren. Das wollen wir in die nächste Lernperiode machen, als Projekt.
+
 
