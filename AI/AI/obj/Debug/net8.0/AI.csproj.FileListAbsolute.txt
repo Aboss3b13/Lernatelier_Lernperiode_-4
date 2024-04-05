@@ -1,0 +1,14 @@
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.AssemblyInfoInputs.cache
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.AssemblyInfo.cs
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.csproj.CoreCompileInputs.cache
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\bin\Debug\net8.0\AI.exe
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\bin\Debug\net8.0\AI.deps.json
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\bin\Debug\net8.0\AI.runtimeconfig.json
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\bin\Debug\net8.0\AI.dll
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\bin\Debug\net8.0\AI.pdb
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.dll
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\refint\AI.dll
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.pdb
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\AI.genruntimeconfig.cache
+C:\School\BBB\Lernatelier\ChatClient\AI\AI\obj\Debug\net8.0\ref\AI.dll
